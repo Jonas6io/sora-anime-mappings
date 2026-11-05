@@ -20,6 +20,51 @@
           },
           "no_intro": false,
           "no_outro": false
+        },
+        "81": {
+          "intro": null,
+          "outro": {
+            "start_sec": 1333,
+            "end_sec": 1420
+          },
+          "no_intro": true,
+          "no_outro": false
+        },
+        "82": {
+          "intro": null,
+          "outro": null,
+          "no_intro": true,
+          "no_outro": true
+        },
+        "83": {
+          "intro": {
+            "start_sec": 89,
+            "end_sec": 177
+          },
+          "outro": null,
+          "no_intro": false,
+          "no_outro": true
+        },
+        "84": {
+          "intro": null,
+          "outro": {
+            "start_sec": 1291,
+            "end_sec": 1381
+          },
+          "no_intro": true,
+          "no_outro": false
+        },
+        "85": {
+          "intro": {
+            "start_sec": 171,
+            "end_sec": 261
+          },
+          "outro": {
+            "start_sec": 2288,
+            "end_sec": 2470
+          },
+          "no_intro": false,
+          "no_outro": false
         }
       }
     }
