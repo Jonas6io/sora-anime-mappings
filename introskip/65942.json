@@ -1,0 +1,27 @@
+{
+  "tmdb_id": "65942",
+  "seasons": {
+    "4": {
+      "episodes": {
+        "79": {
+          "intro": null,
+          "outro": null,
+          "no_intro": true,
+          "no_outro": true
+        },
+        "80": {
+          "intro": {
+            "start_sec": 109,
+            "end_sec": 198
+          },
+          "outro": {
+            "start_sec": 1370,
+            "end_sec": 1419
+          },
+          "no_intro": false,
+          "no_outro": false
+        }
+      }
+    }
+  }
+}
