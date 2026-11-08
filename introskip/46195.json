@@ -1,0 +1,42 @@
+{
+    "tmdb_idd": "46195",
+    "seasons": {
+        "3": {
+            "episodes": {
+                "24": {
+                    "intro": {
+                        "start_sec": 86,
+                        "end_sec": 175
+                    },
+                    "outro": {
+                        "start_sec": 1360,
+                        "end_sec": 1449
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "25": {
+                    "intro": {
+                        "start_sec": 353,
+                        "end_sec": 443
+                    },
+                    "outro": {
+                        "start_sec": 1359,
+                        "end_sec": 1449
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "26": {
+                    "intro": {
+                        "start_sec": 81,
+                        "end_sec": 170
+                    },
+                    "outro": null,
+                    "no_intro": false,
+                    "no_outro": true
+                }
+            }
+        }
+    }
+}
