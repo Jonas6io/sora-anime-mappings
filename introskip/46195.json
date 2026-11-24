@@ -3,6 +3,78 @@
     "seasons": {
         "3": {
             "episodes": {
+                "18": {
+                    "intro": {
+                        "start_sec": 113,
+                        "end_sec": 174
+                    },
+                    "outro": {
+                        "start_sec": 1163,
+                        "end_sec": 1261
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "19": {
+                    "intro": {
+                        "start_sec": 156,
+                        "end_sec": 215
+                    },
+                    "outro": {
+                        "start_sec": 1420,
+                        "end_sec": 1510
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "20": {
+                    "intro": {
+                        "start_sec": 120,
+                        "end_sec": 180
+                    },
+                    "outro": {
+                        "start_sec": 1349,
+                        "end_sec": 1438
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "21": {
+                    "intro": {
+                        "start_sec": 79,
+                        "end_sec": 168
+                    },
+                    "outro": {
+                        "start_sec": 1450,
+                        "end_sec": 1539
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "22": {
+                    "intro": {
+                        "start_sec": 338,
+                        "end_sec": 428
+                    },
+                    "outro": {
+                        "start_sec": 1449,
+                        "end_sec": 1539
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
+                "23": {
+                    "intro": {
+                        "start_sec": 58,
+                        "end_sec": 147
+                    },
+                    "outro": {
+                        "start_sec": 1359,
+                        "end_sec": 1449
+                    },
+                    "no_intro": false,
+                    "no_outro": false
+                },
                 "24": {
                     "intro": {
                         "start_sec": 86,
